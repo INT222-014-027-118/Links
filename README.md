@@ -4,3 +4,6 @@
 ## Database Design 
 > ### [Entity design](https://lucid.app/lucidchart/invitations/accept/inv_a3c4d6e9-1bb6-47e7-a251-37f1279dc671?viewport_loc=-10%2C-10%2C1707%2C779%2C0_0)
 > ### [DBdiagram](https://dbdiagram.io/embed/6124ff4a6dc2bb6073b94e21)
+
+## Frontend
+> ### [Netlify](https://int222-front-end.netlify.app/)

@@ -1,3 +1,6 @@
+## Requirement
+> ### [Document](https://docs.google.com/document/d/1CzzN3rxu2WrjUnmsy5Gb_xDjad-olCjYAduguK8LDck/edit)
+
 ## UX/UI Design 
 > ### [Miro](https://miro.com/app/board/o9J_l1u8niw=/)
 

@@ -9,4 +9,4 @@
 > ### [DBdiagram](https://dbdiagram.io/embed/6124ff4a6dc2bb6073b94e21)
 
 ## Frontend
-> ### [Netlify](https://int222-front-end.netlify.app/)
+> ### [Netlify](https://int222-orange-it.netlify.app/)

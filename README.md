@@ -1,5 +1,5 @@
 ## Our website OrangeIT
-> ### [OrangeIT](http://52.187.10.17/)
+> ### [OrangeIT](http://20.205.201.136/)
 
 ## Requirement
 > ### [Document](https://docs.google.com/document/d/1CzzN3rxu2WrjUnmsy5Gb_xDjad-olCjYAduguK8LDck/edit)

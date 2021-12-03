@@ -1,5 +1,5 @@
 ## Our website OrangeIT
-> ### [OrangeIT](http://20.212.33.246/)
+> ### [OrangeIT](http://orange-it.ddns.net/)
 
 ## Requirement
 > ### [Document](https://docs.google.com/document/d/1CzzN3rxu2WrjUnmsy5Gb_xDjad-olCjYAduguK8LDck/edit)

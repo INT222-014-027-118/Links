@@ -12,3 +12,7 @@
 
 ## Frontend
 > ### [Netlify](https://int222-orange-it.netlify.app/)
+
+## Database Document 
+> ### [Document](https://docs.google.com/document/d/1fsifcFGJyMXLCXWihCgzgROltMffHnEUWu78ZBP0UxQ/)
+
